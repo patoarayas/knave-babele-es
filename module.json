@@ -1,0 +1,24 @@
+{
+  "name": "knave-babele-es",
+  "title": "Knave Babele Spanish",
+  "description": "Traducción de Knave al español para el sistema de Aidymouse mediante babele (Es necesario tener el módulo Babele instalado y activado) - Knave Spanish translation for the system made by Aidymouse using Babele (You must have Babele module installed and activated)",
+  "version": "0.1",
+  "minimumCoreVersion" : "0.6.0",
+  "compatibleCoreVersion":"0.6.4",
+  "author": "Spanish module: patoarayas / Babele module: Simone / Knave system: Aidymouse",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+
+  "languages": [{
+  	"lang": "es",
+    "name": "Español",
+    "path": "es.json"
+  }],
+
+
+  "url": "https://github.com/patoarayas/knave-babele-es",
+  "manifest": "https://raw.githubusercontent.com/patoarayas/knave-babele-es/master/module.json",
+  "download": "https://github.com/patoarayas/knave-babele-es/archive/master.zip"
+}
