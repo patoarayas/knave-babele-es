@@ -3,14 +3,15 @@
         "of": "de",
 
         "leftColumn": {
+
             "defenseLabel": "DEFENSA",
             "abilityLabel": "HABILIDAD",
             "bonusLabel": "BONUS",
+            "STR": "FUE",
+            "armorLabel": "Armadura",
 
-            "armorLabel": "ARMADURA",
-
-            "HPMaxLabel": "MAX",
-            "HPCurrentLabel": "CURRENT",
+            "HPMaxLabel": "MAXIMO",
+            "HPCurrentLabel": "ACTUAL",
             "HPLabel": "HP"
         },
 
@@ -25,27 +26,27 @@
 
         "rightColumn": {
             "itemSlotsLabel": "EQUIPAMIENTO",
-            "slotsRemainingLabel": "Espacio restante: ",
+            "slotsRemainingLabel": "Peso restante: ",
 
             "itemHeaderName": "Nombre",
-            "itemHeaderSlots": "Espacios"
+            "itemHeaderSlots": "Esparero"
         }
 
     },
 
     "monsterSheet": {
-        "hitDiceLabel": "Hit Dice",
-        "currentHPLabel": "Current HP",
-        "maxHPLabel": "Max HP",
-        "multiplierLabel": "Multiplier",
-        "armorClassLabel": "Armor Class",
+        "hitDiceLabel": "Dado de golpe",
+        "currentHPLabel": "HP Actual",
+        "maxHPLabel": "HP Máximo",
+        "multiplierLabel": "Multiplicador",
+        "armorClassLabel": "Armadura",
         "moraleLabel": "Moral",
 
         "abilityScoreHitDiceOptionLabel": "Ability Scores based on Hit Dice",
 
-        "attackHeadingName": "Attack Name",
+        "attackHeadingName": "Ataque",
         "attackHeadingBonus": "Bonus",
-        "attackHeadingDamage": "Damage Formula"
+        "attackHeadingDamage": "Fórmula de daño"
     },
 
     "rollLabels": {
