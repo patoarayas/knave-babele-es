@@ -1,4 +1,10 @@
 {
+    "str": "FUE",
+    "dex": "DES",
+    "con": "CON",
+    "int": "INT",
+    "wis": "SAB",
+    "cha": "CAR",
     "mainSheet": {
         "of": "de",
 
@@ -7,7 +13,6 @@
             "defenseLabel": "DEFENSA",
             "abilityLabel": "HABILIDAD",
             "bonusLabel": "BONUS",
-            "STR": "FUE",
             "armorLabel": "Armadura",
 
             "HPMaxLabel": "MAXIMO",
@@ -29,7 +34,7 @@
             "slotsRemainingLabel": "Peso restante: ",
 
             "itemHeaderName": "Nombre",
-            "itemHeaderSlots": "Esparero"
+            "itemHeaderSlots": "Espacios"
         }
 
     },
