@@ -1,4 +1,11 @@
 {
+    "str": "FUE",
+    "dex": "DES",
+    "con": "CON",
+    "int": "INT",
+    "wis": "SAB",
+    "cha": "CAR",
+
     "mainSheet": {
         "of": "de",
 
@@ -7,7 +14,6 @@
             "defenseLabel": "DEFENSA",
             "abilityLabel": "HABILIDAD",
             "bonusLabel": "BONUS",
-            "STR": "FUE",
             "armorLabel": "Armadura",
 
             "HPMaxLabel": "MAXIMO",
@@ -26,10 +32,10 @@
 
         "rightColumn": {
             "itemSlotsLabel": "EQUIPAMIENTO",
-            "slotsRemainingLabel": "Peso restante: ",
+            "slotsRemainingLabel": "Espacio restante: ",
 
             "itemHeaderName": "Nombre",
-            "itemHeaderSlots": "Esparero"
+            "itemHeaderSlots": "Espacio"
         }
 
     },
@@ -42,7 +48,7 @@
         "armorClassLabel": "Armadura",
         "moraleLabel": "Moral",
 
-        "abilityScoreHitDiceOptionLabel": "Ability Scores based on Hit Dice",
+        "abilityScoreHitDiceOptionLabel": "Basar puntos de habilidad en el dado de golpe",
 
         "attackHeadingName": "Ataque",
         "attackHeadingBonus": "Bonus",
