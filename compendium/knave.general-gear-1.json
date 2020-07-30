@@ -1,0 +1,109 @@
+{
+	"label": "Equipamiento general 1",
+	"mapping": {
+		"description": "data.description"
+	},
+
+	"entries": [
+		{
+			"id": "Air Bladder",
+			"name": "Vejiga de aire",
+			"description":"Permite contener gases o aire en su interior."
+		},
+		{
+			"id": "Bear Trap",
+			"name": "Trampa para osos",
+			"description":"Una gran mandíbula de metal que se cierra al ser presionada."
+		},
+		{
+			"id": "Bellows",
+			"name": "Fuelle",
+			"description":"Al ser presionado genera una columna de aire. Usada comunmente para avivar las llamas."
+		},
+		{
+			"id": "Bucket",
+			"name": "Balde",
+			"description":"Para acarrear agua."
+		},
+		{
+			"id": "Caltrops (bag)",
+			"name": "Abrojos (bolsa)",
+			"description":"Una bolsa llena de elementos puntiagudos"
+		},
+		{
+			"id": "Chisel",
+			"name": "Cincel",
+			"description":"Suficientemente fuerte para romper la roca, sin embargo versátil en las manos de un escultor."
+		},
+		{
+			"id": "Drill",
+			"name": "Taladro",
+			"description":"Sirve para hacer ajugeros."
+		},
+		{
+			"id": "Fishing Rod",
+			"name": "Caña de pescar",
+			"description":"Una vara de madera con un hilo y anzuelo."
+		},
+		{
+			"id": "Glue",
+			"name": "Pegamento",
+			"description":"Dejar secar despues de aplicado. ¡Cuidado con pegarte las manos!"
+		},
+		{
+			"id": "Grease",
+			"name": "Grasa",
+			"description":"Un tarro con grasa."
+		},
+		{
+			"id": "Hourglass",
+			"name": "Reloj de arena",
+			"description":"Para ver como pasa el tiempo."
+		},
+		{
+			"id": "Lockpicks",
+			"name": "Ganzúa",
+			"description":"Usadas con habilidad permiten abrir cerraduras"
+		},
+		{
+			"id": "Marbles",
+			"name": "Canicas (bolsa)",
+			"description":"¡Intenta adivinar cuantas canicas trae esta bolsa!"
+		},
+		{
+			"id": "Metal File",
+			"name": "Lima",
+			"description":"Para escapar de la cárcel o hacerte la manicure."
+		},
+		{
+			"id": "Nails",
+			"name": "Clavos",
+			"description":"¡Recuerda! Un clavo saca otro clavo."
+		},
+		{
+			"id": "Net",
+			"name": "Red",
+			"description":"Lanzala para atrapar a tus enemigos."
+		},
+		{
+			"id": "Pick",
+			"name": "Picota",
+			"description":"Buscando cobre, encontre oro."
+		},
+		{
+			"id": "Saw",
+			"name": "Sierra",
+			"description":"Una hoja de metal con afilados dientes."
+		},
+		{
+			"id": "Shovel",
+			"name": "Pala",
+			"description":"Para esos agujeros de los que solo se puede salir cavando."
+		},
+		{
+			"id": "Tongs",
+			"name": "Tenazas",
+			"description":"Ideal si tienes manos cortas."
+		}
+	]
+}

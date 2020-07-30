@@ -1,0 +1,44 @@
+{
+	"label": "Armaduras",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Brigandine",
+			"name": "Brigantina",
+			"description": "Armadura compuesta por pequeñas escamas de acero sujetas sobre una tela fuerte."
+		},
+		{
+			"id": "Chain",
+			"name": "Cota de mallas",
+			"description":"Armadura metálica formada por anillos de hierro forjado."
+		},
+		{
+			"id": "Full Plate",
+			"name": "Armadura completa",
+			"description": "Armadura de placas que cubre todo el cuerpo"
+
+		},
+		{
+			"id": "Gambeson",
+			"name": "Gambesón",
+			"description": "Prenda acolchada confeccionada de material fuerte que otorga cierta protección"
+		},
+		{
+			"id": "Half Plate",
+			"name": "Armadura de placas",
+			"description": "Armadura de placas que cubren solo parte del cuerpo"
+		},
+		{
+			"id": "Helmet",
+			"name": "Yelmo",
+			"description":"Protección para la cabeza"
+		},
+		{
+			"id": "Shield",
+			"name": "Escudo",
+			"description": "Arma defensiva"
+		}
+	]
+}

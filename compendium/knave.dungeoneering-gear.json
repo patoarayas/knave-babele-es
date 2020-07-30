@@ -1,0 +1,109 @@
+{
+	"label": "Equipo de mazmorreo",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Candles",
+			"name": "Velas",
+			"description": "No duran mucho encendidas pero alumbran los suficiente"
+		},
+		{
+			"id": "Chain (10 ft)",
+			"name": "Cadena (10 pies)",
+			"description": "Cadena de 10 pies (3 metros) de largo, enrrollada para tu conveniencia."
+		},
+		{
+			"id": "Chalk",
+			"name": "Tiza",
+			"description": "¡Perfecta para rayar paredes!"
+		},
+		{
+			"id": "Crowbar",
+			"name": "Barreta",
+			"description": "Perfecta para romper puertas o abrir cajas. Tambien llamada pie de cabra o diablo"
+		},
+		{
+			"id": "Grappling Hook",
+			"name": "Gancho",
+			"description": "Gancho que te puede ayudar a subir un techo o un barranco. "
+		},
+		{
+			"id": "Hammer",
+			"name": "Martillo",
+			"description": "Con cabeza de metal y mango de madera"
+		},
+		{
+			"id": "Lamp Oil",
+			"name": "Aceite de lámpara",
+			"description": "El aceite arde por un buen rato"
+		},
+		{
+			"id": "Lantern",
+			"name": "Linterna",
+			"description": "Ilumina bien por largo tiempo"
+		},
+		{
+			"id": "Manacles",
+			"name": "Esposas",
+			"description": "Fabricadas de metal y de buena calidad. Incluyen la llave"
+		},
+		{
+			"id": "Mirror (small, silver)",
+			"name": "Espejo",
+			"description": "Pequeño espejo de plata"
+		},
+		{
+			"id": "Padlock and Key",
+			"name": "Candado y llave",
+			"description": "Para proteger tus cosas"
+		},
+		{
+			"id": "Pole (10 ft)",
+			"name": "Pértiga",
+			"description": "También llamada garrocha. Mide 10 pies (3 metros). Por alguna razón muy codiciada entre aventureros."
+		},
+		{
+			"id": "Pulleys",
+			"name": "Poleas",
+			"description": "Un par de poleas con una cuerda con gancho entre ellas"
+		},
+		{
+			"id": "Rope (50 ft)",
+			"name": "Cuerda",
+			"description": "Una buena cuerda de 50 pies de largo (15 metros)."
+		},
+		{
+			"id": "Sack",
+			"name": "Saco",
+			"description": "El contenedor perfecto"
+		},
+		{
+			"id": "Spikes (wood)",
+			"name": "Estacas de madera",
+			"description":"Se astillan facilmente."
+
+		},
+		{
+			"id": "Tent (3 man)",
+			"name": "Tienda de campaña",
+			"description": "Tres personas caben comodamente"
+		},
+		{
+			"id": "Tinderbox",
+			"name": "Yesca y pedernal",
+			"description":"Todo lo necesario para enceder un fuego"
+		},
+		{
+			"id": "Torches",
+			"name": "Antorchas",
+			"description": "Una manera sencilla de conseguir luz."
+		},
+		{
+			"id": "Waterskin",
+			"name": "Cantimplora",
+			"description": "Puede contener suficiente agua para un par de días"
+		}
+	]
+}

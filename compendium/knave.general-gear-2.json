@@ -1,0 +1,108 @@
+{
+	"label": "Equipamiento general 2",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Book (Blank)",
+			"name": "Libro (En blanco)",
+			"description": "Un libro con sus páginas en blanco"
+		},
+		{
+			"id": "Bottle",
+			"name": "Botella",
+			"description": "Un útil frasco de vidrio."
+		},
+		{
+			"id": "Card Deck",
+			"name": "Baraja de cartas",
+			"description": "Un mazo de cartas."
+		},
+		{
+			"id": "Cookpots",
+			"name": "Utensilios de cocina",
+			"description": "Ollas, sartenes y cucharas."
+		},
+		{
+			"id": "Dice Set",
+			"name": "Juego de dados",
+			"description": "Dados de distintas caras y colores."
+		},
+		{
+			"id": "Face Paint",
+			"name": "Maquillaje",
+			"description": "Un set completo de maquillaje."
+		},
+		{
+			"id": "Fake Jewels",
+			"name": "Joyas falsas",
+			"description": "Joyas de vidrio, engañarán a más de alguno."
+		},
+		{
+			"id": "Horn",
+			"name": "Cuerno",
+			"description": "Un cuerno hecho de madera o bronce. Util para cargar en combate o batirse en retirada."
+		},
+		{
+			"id": "Incense (packet)",
+			"name": "Paquete de incienso",
+			"description": "Producen un inteso aroma."
+		},
+		{
+			"id": "Large Sponge",
+			"name": "Esponja",
+			"description": "Una esponja."
+		},
+		{
+			"id": "Lens",
+			"name": "Lente",
+			"description": "Un lente de cristal. Todo se ve mas grande a través de el."
+		},
+		{
+			"id": "Musical Instrument",
+			"name": "Instrumento musical",
+			"description": "En manos capaces producirá bellas melodias."
+		},
+		{
+			"id": "Perfume",
+			"name": "Perfume",
+			"description": "Desprende un agradable aroma."
+		},
+		{
+			"id": "Quill and Ink",
+			"name": "Pluma y tinta",
+			"description": "Suficiente para escribir tu testamento."
+		},
+		{
+			"id": "Small Bell",
+			"name": "Campanilla",
+			"description": "Suena mas fuerte de lo que parece."
+		},
+		{
+			"id": "Soap",
+			"name": "Jabón",
+			"description": "Arde si te entra en los ojos."
+		},
+		{
+			"id": "Spyglass",
+			"name": "Catalejo",
+			"description": "Para mirar a la distancia o el firmamento."
+		},
+		{
+			"id": "Tar (pot)",
+			"name": "Tarro de brea",
+			"description": "Viscoso y pestilente tarro de brea."
+		},
+		{
+			"id": "Twine (300 ft)",
+			"name": "Cordel",
+			"description": "300 pies (90 metros) de fino pero resistente cordel."
+		},
+		{
+			"id": "Whistle",
+			"name": "Silbato",
+			"description": "Genera un agudo sonido."
+		}
+	]
+}
