@@ -43,7 +43,7 @@
 		{
 			"id": "Fishing Rod",
 			"name": "Caña de pescar",
-			"description":"Una vara de madera con un hilo y anzuelo."
+			"description":"Una vara de madera con hilo y anzuelo."
 		},
 		{
 			"id": "Glue",
@@ -62,7 +62,7 @@
 		},
 		{
 			"id": "Lockpicks",
-			"name": "Ganzúa",
+			"name": "Ganzúas",
 			"description":"Usadas con habilidad permiten abrir cerraduras"
 		},
 		{
@@ -98,7 +98,7 @@
 		{
 			"id": "Shovel",
 			"name": "Pala",
-			"description":"Para esos agujeros de los que solo se puede salir cavando."
+			"description":"Para esos problemas de los que solo se puede salir cavando."
 		},
 		{
 			"id": "Tongs",

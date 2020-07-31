@@ -7,7 +7,7 @@
 		{
 			"id": "Candles",
 			"name": "Velas",
-			"description": "No duran mucho encendidas pero alumbran los suficiente"
+			"description": "No duran mucho encendidas pero alumbran lo suficiente"
 		},
 		{
 			"id": "Chain (10 ft)",
@@ -27,7 +27,7 @@
 		{
 			"id": "Grappling Hook",
 			"name": "Gancho",
-			"description": "Gancho que te puede ayudar a subir un techo o un barranco. "
+			"description": "Gancho que te puede ayudar a subir un techo o barranco. "
 		},
 		{
 			"id": "Hammer",

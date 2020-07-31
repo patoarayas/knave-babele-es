@@ -1,0 +1,333 @@
+{
+	"label": "Herramientas y equipamiento",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Air Bladder",
+			"name": "Vejiga de aire",
+			"description":"Permite contener gases o aire en su interior."
+		},
+		{
+			"id": "Bear Trap",
+			"name": "Trampa para osos",
+			"description":"Una gran mandíbula de metal que se cierra al ser presionada."
+		},
+		{
+			"id": "Bedroll",
+			"name": "Saco de dormir",
+			"description": "Permite dormir comodamente."
+		},
+		{
+			"id": "Bellows",
+			"name": "Fuelle",
+			"description":"Al ser presionado genera una columna de aire. Usada comunmente para avivar las llamas."
+		},
+		{
+			"id": "Black Grease",
+			"name": "Grasa",
+			"description":"Un tarro con grasa."
+		},
+		{
+			"id": "Block and Tackle",
+			"name": "Poleas",
+			"description": "Un par de poleas con una cuerda con gancho entre ellas"
+		},
+		{
+			"id": "Book (Blank)",
+			"name": "Libro (En blanco)",
+			"description": "Un libro con sus páginas en blanco"
+		},
+		{
+			"id": "Book (Reading)",
+			"name": "Libro (Escrito)",
+			"description": "Un libro con contenido."
+		},
+		{
+			"id": "Bottle / Vial",
+			"name": "Botella",
+			"description": "Un útil frasco de vidrio."
+		},
+		{
+			"id": "Bucket",
+			"name": "Balde",
+			"description":"Para acarrear agua."
+		},
+		{
+			"id": "Caltrops (bag)",
+			"name": "Abrojos (bolsa)",
+			"description":"Una bolsa llena de elementos puntiagudos"
+		},
+		{
+			"id": "Cards with an extra Ace",
+			"name": "Baraja de cartas con un As extra",
+			"description": "Cuando la suerte no es suficiente."
+		},
+		{
+			"id": "Chain (10 ft)",
+			"name": "Cadena (10 pies)",
+			"description": "Cadena de 10 pies (3 metros) de largo, enrrollada para tu conveniencia."
+		},
+		{
+			"id": "Chalk",
+			"name": "Tiza",
+			"description": "¡Perfecta para rayar paredes!"
+		},
+		{
+			"id": "Chisel",
+			"name": "Cincel",
+			"description":"Suficientemente fuerte para romper la roca, sin embargo versátil en las manos de un escultor."
+		},
+		{
+			"id": "Cookpots",
+			"name": "Utensilios de cocina",
+			"description": "Ollas, sartenes y cucharas."
+		},
+		{
+			"id": "Crowbar",
+			"name": "Barreta",
+			"description": "Perfecta para romper puertas o abrir cajas. Tambien llamada pie de cabra o diablo"
+		},
+		{
+			"id": "Drill",
+			"name": "Taladro",
+			"description":"Sirve para hacer ajugeros."
+		},
+		{
+			"id": "Face Paint / Makeup",
+			"name": "Maquillaje",
+			"description": "Un set completo de maquillaje."
+		},
+		{
+			"id": "Fake Jewels",
+			"name": "Joyas falsas",
+			"description": "Joyas de vidrio, engañarán a más de alguno."
+		},
+		{
+			"id": "Fishing Rod/Tackle",
+			"name": "Caña de pescar",
+			"description":"Una vara de madera con hilo y anzuelo."
+		},
+		{
+			"id": "Glass Marbles (bag)",
+			"name": "Canicas (bolsa)",
+			"description":"¡Intenta adivinar cuantas canicas trae esta bolsa!"
+		},
+		{
+			"id": "Glue (bottle)",
+			"name": "Pegamento",
+			"description":"Dejar secar despues de aplicado. ¡Cuidado con pegarte las manos!"
+		},
+		{
+			"id": "Grappling Hook",
+			"name": "Gancho",
+			"description": "Gancho que te puede ayudar a subir un techo o barranco. "
+		},
+		{
+			"id": "Hammer",
+			"name": "Martillo",
+			"description": "Con cabeza de metal y mango de madera"
+		},
+		{
+			"id": "Holy Water",
+			"name": "Agua bendita",
+			"description": "Del agua bendita, poquita"
+		},
+		{
+			"id": "Horn",
+			"name": "Cuerno",
+			"description": "Un cuerno hecho de madera o bronce. Util para cargar en combate o batirse en retirada."
+		},
+		{
+			"id": "Hourglass",
+			"name": "Reloj de arena",
+			"description":"Para ver como pasa el tiempo."
+		},
+		{
+			"id": "Incense (packet)",
+			"name": "Paquete de incienso",
+			"description": "Producen un inteso aroma."
+		},
+		{
+			"id": "Iron Tongs",
+			"name": "Tenazas",
+			"description":"Ideal si tienes manos cortas."
+		},
+		{
+			"id": "Ladder (10 ft)",
+			"name": "Escalera",
+			"description": "Mide 10 pies (3 metros),"
+		},
+		{
+			"id": "Large Sponge",
+			"name": "Esponja",
+			"description": "Una esponja."
+		},
+		{
+			"id": "Lens",
+			"name": "Lente",
+			"description": "Un lente de cristal. Todo se ve mas grande a través de el."
+		},
+		{
+			"id": "Lockpicks",
+			"name": "Ganzúas",
+			"description":"Usadas con habilidad permiten abrir cerraduras"
+		},
+		{
+			"id": "Manacles",
+			"name": "Esposas",
+			"description": "Fabricadas de metal y de buena calidad. Incluyen la llave"
+		},
+		{
+			"id": "Metal File",
+			"name": "Lima",
+			"description":"Para escapar de la cárcel o hacerte la manicure."
+		},
+		{
+			"id": "Mirror (small, silver)",
+			"name": "Espejo",
+			"description": "Pequeño espejo de plata"
+		},
+		{
+			"id": "Musical Instrument",
+			"name": "Instrumento musical",
+			"description": "En manos capaces producirá bellas melodias."
+		},
+		{
+			"id": "Nails",
+			"name": "Clavos",
+			"description":"¡Recuerda! Un clavo saca otro clavo."
+		},
+		{
+			"id": "Net",
+			"name": "Red",
+			"description":"Lanzala para atrapar a tus enemigos."
+		},
+		{
+			"id": "Oilskin Bag",
+			"name": "Bolso impermeable",
+			"description": "Bolso hecho de un material impermeable."
+		},
+		{
+			"id": "Oilskin Trousers",
+			"name": "Pantalanes impermeables",
+			"description": "Pantalones hechos de un material impermeable."
+		},
+		{
+			"id": "Padlock and Key",
+			"name": "Candado y llave",
+			"description": "Para proteger tus cosas"
+		},
+		{
+			"id": "Perfume",
+			"name": "Perfume",
+			"description": "Desprende un agradable aroma."
+		},
+		{
+			"id": "Pick",
+			"name": "Picota",
+			"description":"Buscando cobre, encontre oro."
+		},
+		{
+			"id": "Pole (10 ft)",
+			"name": "Pértiga",
+			"description": "También llamada garrocha. Mide 10 pies (3 metros). Por alguna razón muy codiciada entre aventureros."
+		},
+		{
+			"id": "Quill and Ink",
+			"name": "Pluma y tinta",
+			"description": "Suficiente para escribir un testamento."
+		},
+		{
+			"id": "Rope (50 ft)",
+			"name": "Cuerda",
+			"description": "Una buena cuerda de 50 pies de largo (15 metros)."
+		},
+		{
+			"id": "Sack",
+			"name": "Saco",
+			"description": "El contenedor perfecto"
+		},
+		{
+			"id": "Saw",
+			"name": "Sierra",
+			"description":"Una hoja de metal con afilados dientes."
+		},
+		{
+			"id": "Set of Loaded Dice",
+			"name": "Juego de dados cargados",
+			"description": "Dados de distintas caras y colores. ¡Para cuando la suerte no alcanza!"
+		},
+		{
+			"id": "Shovel",
+			"name": "Pala",
+			"description":"Para esos problemas de los que solo se puede salir cavando."
+		},
+		{
+			"id": "Small Bell",
+			"name": "Campanilla",
+			"description": "Suena mas fuerte de lo que parece."
+		},
+		{
+			"id": "Soap",
+			"name": "Jabón",
+			"description": "Arde si te entra en los ojos."
+		},
+		{
+			"id": "Spike (iron)",
+			"name": "Estacas de hierro",
+			"description":"Afiladas y resistentes"
+		},
+		{
+			"id": "Spike (wood)",
+			"name": "Estacas de madera",
+			"description":"Se astillan facilmente."
+		},
+		{
+			"id": "Spiked Boots",
+			"name": "Botas con clavos",
+			"description": "A pesar de su aspecto son bastante cómodas."
+		},
+		{
+			"id": "Spyglass",
+			"name": "Catalejo",
+			"description": "Para mirar a la distancia o el firmamento."
+		},
+		{
+			"id": "Tar (pot)",
+			"name": "Tarro de brea",
+			"description": "Viscoso y pestilente tarro de brea."
+		},
+		{
+			"id": "Tent (3 man)",
+			"name": "Tienda de campaña",
+			"description": "Tres personas caben comodamente"
+		},
+		{
+			"id": "Tent (personal)",
+			"name": "Carpa (1 persona)",
+			"description": "Para una sola persona"
+		},
+		{
+			"id": "Travel Rations (1 day)",
+			"name": "Raciones de viaje (1 día)",
+			"description": "Suficiente comida para un dia de aventuras."
+		},
+		{
+			"id": "Twine (300 ft)",
+			"name": "Cordel",
+			"description": "300 pies (90 metros) de fino pero resistente cordel."
+		},
+		{
+			"id": "Waterskin",
+			"name": "Cantimplora",
+			"description": "Puede contener suficiente agua para un par de días"
+		},
+		{
+			"id": "Whistle",
+			"name": "Silbato",
+			"description": "Genera un sonido agudo."
+		}
+	]
+}

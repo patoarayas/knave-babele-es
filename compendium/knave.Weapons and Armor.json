@@ -1,0 +1,83 @@
+{
+	"label": "Armas y armaduras",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": [
+		{
+			"id": "Arrows",
+			"name": "Flechas",
+			"description":"No usa espacio si las llevas un Carcaj"
+		},
+		{
+			"id": "Bow",
+			"name": "Arco",
+			"description":"d6 de daño, A 2 manos."
+		},
+		{
+			"id": "Brigandine",
+			"name": "Brigantina",
+			"description":"Armadura compuesta por pequeñas escamas de acero sujetas sobre una tela fuerte."
+		},
+		{
+			"id": "Chain",
+			"name": "Cota de mallas",
+			"description":"Armadura metálica formada por anillos de hierro forjado."
+		},
+		{
+			"id": "Crossbow",
+			"name": "Crossbow",
+			"description":"d8 de daño, A 2 manos."
+		},
+		{
+			"id": "Full Plate",
+			"name": "Armadura completa",
+			"description": "Armadura de placas que cubre todo el cuerpo"
+		},
+		{
+			"id": "Gambeson",
+			"name": "Gambesón",
+			"description": "Prenda acolchada confeccionada de material fuerte que otorga cierta protección"
+		},
+		{
+			"id": "Half Plate",
+			"name": "Armadura de placas",
+			"description": "Armadura de placas que cubren solo parte del cuerpo"
+		},
+		{
+			"id": "Helmet",
+			"name": "Yelmo",
+			"description":"Protección para la cabeza"
+		},
+		{
+			"id": "Quiver",
+			"name": "Carcaj",
+			"description":"Capacidad 20 flechas"
+		},
+		{
+			"id": "Shield",
+			"name": "Escudo",
+			"description": "Arma defensiva"
+		},
+		{
+			"id": "Sling",
+			"name": "Honda",
+			"description":"d4 de Daño, 1 mano"
+		},
+		{
+			"id": "d10 Weapon",
+			"name": "d10 Weapon",
+			"description":"d10 de Daño, A 2 manos"
+		},
+		{
+			"id": "d6 Weapon",
+			"name": "d6 Weapon",
+			"description":"d6 de Daño, 1 mano"
+		},
+		{
+			"id": "d8 Weapon",
+			"name": "d8 Weapon",
+			"description":"d8 de Daño, 1 mano"
+		}
+	]
+}

@@ -41,18 +41,29 @@
     },
 
     "monsterSheet": {
-        "hitDiceLabel": "Dado de golpe",
+        "namePlaceHolder": "Nombre ...",
+        "hitDiceLabel": "Dados de golpe",
         "currentHPLabel": "HP Actual",
         "maxHPLabel": "HP Máximo",
         "multiplierLabel": "Multiplicador",
         "armorClassLabel": "Armadura",
         "moraleLabel": "Moral",
 
-        "abilityScoreHitDiceOptionLabel": "Basar puntos de habilidad en el dado de golpe",
+        "abilityScoreHitDiceOptionLabel": "Basar puntos de habilidad en los dados de golpe",
 
         "attackHeadingName": "Ataque",
         "attackHeadingBonus": "Bonus",
         "attackHeadingDamage": "Fórmula de daño"
+    },
+
+    "itemSheet": {
+        "slotsUsed": "Espacios",
+        "quantity": "Cantidad",
+        "quality": "Calidad",
+        "description": "Descripción",
+        "attributes": "Atributos",
+        "name": "Nombre",
+        "spellLevel": "Nivel de hechizo"
     },
 
     "rollLabels": {
