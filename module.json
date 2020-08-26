@@ -2,7 +2,7 @@
   "name": "knave-babele-es",
   "title": "Knave Babele Spanish",
   "description": "Traducción de Knave al español para el sistema de Aidymouse mediante babele (Es necesario tener el módulo Babele instalado y activado) - Knave Spanish translation for the system made by Aidymouse using Babele (You must have Babele module installed and activated)",
-  "version": "0.2",
+  "version": "0.3",
   "minimumCoreVersion" : "0.6.0",
   "compatibleCoreVersion":"0.6.5",
   "author": "Spanish module: patoarayas / Babele module: Simone / Knave system: Aidymouse",
